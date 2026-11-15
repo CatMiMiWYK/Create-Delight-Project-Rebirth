@@ -1,12 +1,16 @@
 # CHANGELOG
 
-按日期记录本仓库（社区魔改移植源码）的变更。版本号沿用上游 CDPR 的 packwiz 版本，`port.N` 表示本包第 N 次社区魔改移植快照。
+按日期记录本仓库（Community Modded Port (社区魔改移植) 源码）的变更。版本号沿用上游 CDPR 的 packwiz 版本，`port.N` 表示本包第 N 次 Community Modded Port 快照。
+
+## 2026-11-15 · 称呼英文化
+
+- 对外称呼统一为 **Community Modded Port**（首次出现保留「社区魔改移植」作中文对照，其后只用英文）；README、CHANGELOG、LICENSE-NOTICE 与 `docs/` 的标题行同步。
 
 ## 2026-11-15 · 定位修正
 
-- 统一表述：本次工作定位为**社区魔改移植**，不是上游 CDPR 官方移植；README、`docs/` 与 PR 描述同步改写。
+- 统一表述：本次工作定位为 **Community Modded Port**，不是上游 CDPR 官方移植；README、`docs/` 与 PR 描述同步改写。
 
-## 2026-11-15 · port.1（社区魔改移植首次源码仓库快照）
+## 2026-11-15 · port.1（Community Modded Port 首次源码仓库快照）
 
 ### 新增
 
